@@ -1,4 +1,4 @@
-<h2>Olá, sou Irving Paim!!</h1>
+<h1>Olá, sou Irving Paim!!</h1>
 
 <a href="https://github.com/IrvingPaim" alt="GitHub" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IrvingPaim" width="90px" height="25px">
