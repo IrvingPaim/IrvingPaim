@@ -60,7 +60,7 @@ Fora do código, mergulho em **ciências**, **aquarismo**, **livros** e **mangá
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IrvingPaim&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IrvingPaim&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=IrvingPaim&theme=tokyonight" />
 </p>
 
 <p align="center">
