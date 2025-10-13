@@ -1,5 +1,5 @@
 <!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o <strong>Irving Luis Silva Paim</strong></h1>
+<h1 align="center">👋 Olá, eu sou o <strong>Irving Paim</strong></h1>
 <h3 align="center">💻 Desenvolvedor apaixonado por programação, ciências e pelo universo 🌌</h3>
 
 ---
@@ -17,7 +17,8 @@ Fora do código, mergulho em **ciências**, **aquarismo**, **livros** e **mangá
 
 - 🌌 **Ciência & Universo** — fascinado pelo desconhecido e pelo poder do conhecimento.  
 - 🧮 **Programação & Lógica** — resolver problemas de forma criativa e eficiente.  
-- 💧 **Aquarismo** — equilíbrio e observação, como na vida e no código.  
+- 💧 **Aquarismo** — equilíbrio, observação e controle, como na vida e no código.
+- 🎲 **BoardGame** — estratégia, mecânicas diferentes, adaptações e evolução.
 - 📚 **Leitura & Mangás** — inspiração e imaginação em cada página.  
 - 🤝 **Aprendizado Contínuo** — sempre aberto a novas tecnologias e ideias.  
 
